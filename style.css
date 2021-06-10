@@ -1,0 +1,21 @@
+h1{
+    font-size: px;
+}
+body{
+    font-family: 'Viaoda Libre', cursive;
+}
+.nafi{
+    color: orange;
+}
+p{
+    text-align: justify;
+}
+.mou{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+}
+.mou img{
+    width: 100%;
+}
