@@ -1,8 +1,12 @@
 h1{
-    font-size: px;
+    font-size: 50px px;
+}
+h2{
+    font-size: 40px;
 }
 body{
     font-family: 'Viaoda Libre', cursive;
+    margin: 0px;
 }
 .nafi{
     color: orange;
@@ -18,4 +22,58 @@ p{
 }
 .mou img{
     width: 100%;
+}
+.love{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.fb{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 600px;
+    animation-name: inherit;
+    animation-duration: 5s;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 5%;
+}
+.baby{
+    color: orangered;
+}
+.jerin{
+    box-shadow: 5px 5px 25px gray;
+    border-radius: 5px;
+    height: 53%;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 5%;
+    background-position: left;
+    
+}
+#moharani{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+#nm{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 9px;
+    color: red;
 }
